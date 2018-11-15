@@ -1,4 +1,4 @@
-in_file = open('C:/Users/ak75/Documents/Python/introductionToPython3.5/lesson10/practicePrograms/mydata2.txt', 'r+')
+in_file = open('C:/Users/practicePrograms/mydata2.txt', 'r+')
 
 print (in_file.readline())
 print (in_file.tell())
